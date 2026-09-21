@@ -107,3 +107,7 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# PluginYG2 local editor preferences (recreated by the plugin)
+/Assets/PluginYourGames/Editor/PluginPrefs.json
+/Assets/PluginYourGames/Editor/PluginPrefs.json.meta
