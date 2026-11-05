@@ -1,0 +1,70 @@
+# ===== Unity: generated folders =====
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Pp]rofilerCaptures/
+/[Rr]ecordings/
+
+# Asset-pipeline and cache leftovers
+/[Aa]ssets/Plugins/Editor/JetBrains*
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-build.properties
+
+# Unity crash-recovery scenes
+/[Aa]ssets/_Recovery/
+/[Aa]ssets/_Recovery.meta
+
+# Builds and packages made by hand
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.app
+
+# Unity Package Manager backup copies (manifest.json.private.0 etc.)
+/[Pp]ackages/*.private.*
+
+# Auto-generated Visual Studio / Rider / VS Code project files
+/.vs/
+/.idea/
+/.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.consulo/
+ExportedObj/
+
+# Helper files in the repo
+tree*.txt
+tree*.txt.meta
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# ===== NOT ignored on purpose =====
+# *.meta   - required, they hold GUIDs and import settings
+# Packages/manifest.json, Packages/packages-lock.json, ProjectSettings/ - must be committed
+# Assets/Plugins/**/*.so, *.a, *.dll - native plugin binaries (unity.webp needs them)

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: aece338fd740e8e41b5031dbbe2b5619
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: ede818c51522bb542958368437926f4e, type: 3}
+  Mipmap: 0
+  Linear: 0
+  ShouldGenerateSprite: 1
+  TextureFormat: 51
+  WrapMode: 1
+  FilterMode: 0
